@@ -29,7 +29,7 @@
     "gulp": "^4.0.2",
     "gulp-sass": "^5.1.0",
     "node-sass": "^7.0.1",
-    "sass": "^1.45.2"
+    "sass": "^1.47.0"
   },
   "description": "(S)CSS Layout Masterclass: Flexbox & Grid",
   "bugs": {

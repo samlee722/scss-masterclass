@@ -39,4 +39,6 @@ const assets = gulp.series([styles]);
 
 const live = gulp.parallel([watch]);
 
+const sass = require('gulp-sass')(require('sass'));
+
 export const dev = gulp.series([prepare, assets, live]);
